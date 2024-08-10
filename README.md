@@ -1,6 +1,6 @@
 ### Hi there, I'm Bhargav 👋
 
-<!--
+
 **glanzz/glanzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [DashOff](https://dashoff.netlify.app/)
 - 💬 Ask me about Python, Javascript, Analytics, Quantum Computing, Flask
 - 😄 Pronouns: He/Him
-
+<!--
 ---
 
 ### Connect with me:
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ---
-![Luciano's github stats](https://github-readme-stats.vercel.app/api?username=glanzz&show_icons=true&include_all_commits=true&hide_title=true&hide_rank=true)
+![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=glanzz&show_icons=true&include_all_commits=true&hide_title=true&hide_rank=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=glanzz&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glanzz&exclude_repo=talks)
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=glanzz)
+
