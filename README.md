@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [DashOff](https://dashoff.netlify.app/)
-- 💬 Ask me about Python, Javascript, Analytics, Quantum Computing, Flask
+- 💬 Ask me about Python, Javascript, Analytics, Quantum Computing
 - 😄 Pronouns: He/Him
 <!--
 ---
