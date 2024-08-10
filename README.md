@@ -19,7 +19,7 @@
 
 
 ---
-![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=glanzz&show_icons=true&include_all_commits=true&hide_title=true&hide_rank=true)
+![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=glanzz&show_icons=true&theme=transparent)
 ![GitHub Streak](https://streak-stats.demolab.com?user=glanzz&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glanzz&exclude_repo=talks)
 
