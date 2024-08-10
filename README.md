@@ -1,10 +1,6 @@
 ### Hi there, I'm Bhargav 👋
 
 
-**glanzz/glanzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [DashOff](https://dashoff.netlify.app/)
 - 💬 Ask me about Python, Javascript, Analytics, Quantum Computing, Flask
 - 😄 Pronouns: He/Him
