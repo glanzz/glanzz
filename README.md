@@ -1,7 +1,7 @@
 ### Hi there, I'm Bhargav 👋
 
 
-- 🔭 I’m currently working on [DashOff](https://dashoff.me/)
+- 🔭 I’m currently working on [DashOff](https://dashoff.netlify.app/)(Be patient! running on limited resources)
 - 💬 Ask me about Python, Javascript, Analytics, Quantum Computing
 - 😄 Pronouns: He/Him
 <!--
